@@ -1,0 +1,32 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  margin: 5rem 0 0;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+}
+
+.bfs-btn {
+  text-align: center;
+  margin: 3rem 0 0;
+  padding: 0.7rem 0.4rem;
+  cursor: pointer;
+  border: none;
+  color: white;
+  background-color: turquoise;
+  border-radius: 4px;
+  color: blanchedalmond;
+}
+
+.bfs-btn:hover {
+  filter: brightness(0.8);
+}

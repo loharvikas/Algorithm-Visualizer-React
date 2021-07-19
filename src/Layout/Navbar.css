@@ -1,0 +1,43 @@
+/* :root {
+  --bg: #242526;
+  --bg-accent: #484a4d;
+  --text-color: #dadce1;
+  --nav-size: 60px;
+  --border: 1px solid #474a4d;
+  --border-radius: 8px;
+  --speed: 500ms;
+  --nav-size: 60px;
+}
+
+.brand {
+  display: none;
+}
+
+.nav {
+  width: 100%;
+  background-color: var(--bg);
+  height: var(--nav-size);
+  color: var(--text-color);
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: var(--nav-size);
+}
+
+.nav-item {
+    height: 100%;
+}
+
+.nav-item a {
+  color: white;
+  font-size: 1.4rem;
+}
+
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+} */
